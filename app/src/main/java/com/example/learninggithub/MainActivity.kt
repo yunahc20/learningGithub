@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         
         //very important variable
         val x = 10
-        val word = "prominent" 
+        val word = "cromulent" 
     }
 }
