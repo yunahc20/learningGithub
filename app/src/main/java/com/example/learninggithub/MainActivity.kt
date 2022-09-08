@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         val x = 10
         val word = "cromulent" 
         val thing = "thing"
+        //made more variable changes
     }
 }
